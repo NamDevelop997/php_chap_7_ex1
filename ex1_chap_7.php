@@ -1,5 +1,5 @@
 <?php
-//  bài 1: tạo mảng in ra các số lẻ từ 3 - 150
+//  bài 1: tạo mảng để lưu các số lẻ từ 3 - 150
 $arr = [];
 for ($i = 3; $i <= 150; $i += 2) {
     $arr[] = $i;
